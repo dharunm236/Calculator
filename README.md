@@ -75,7 +75,7 @@ A simple calculator GUI client that communicates with a server to perform basic 
 ## 📸 **Sample Images**
 
 ### **Client Interface**
-![Client Interface](assets/calci_gui.png)
+![Client Interface](assets/cali_gui.png)
 
 
 ---
